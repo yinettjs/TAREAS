@@ -1,0 +1,14 @@
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\bin\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.exe
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\bin\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.deps.json
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\bin\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.runtimeconfig.json
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\bin\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\bin\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.AssemblyInfo.cs
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\refint\ProyectoPOOMapaDeClasesYinet.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ProyectoPOOMapaDeClasesYinet.genruntimeconfig.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProyectoPOOMapaDeClasesYinet\ProyectoPOOMapaDeClasesYinet\obj\Debug\net10.0\ref\ProyectoPOOMapaDeClasesYinet.dll

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\proyectopoomapadeclasesyinet\\proyectopoomapadeclasesyinet\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DFFED3-0190-6459-3734-21E3EA7CC1D5}|ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet.csproj|solutionrelative:proyectopoomapadeclasesyinet\\miembrodelacomunidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Program.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Program.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:44:13.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maestro.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Maestro.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Maestro.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Maestro.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Maestro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T20:42:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Administrador.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Administrador.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Administrador.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T17:06:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Administrativo.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Administrativo.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Administrativo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T17:04:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Docente.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Docente.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Docente.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Docente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:45:58.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\ExAlumno.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\ExAlumno.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\ExAlumno.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\ExAlumno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:00:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Estudiante.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Estudiante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:47:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiembroDeLaComunidad.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\MiembroDeLaComunidad.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\MiembroDeLaComunidad.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\MiembroDeLaComunidad.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\MiembroDeLaComunidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:35:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Empleado.cs",
+              "RelativeDocumentMoniker": "ProyectoPOOMapaDeClasesYinet\\Empleado.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProyectoPOOMapaDeClasesYinet\\ProyectoPOOMapaDeClasesYinet\\Empleado.cs",
+              "RelativeToolTip": "ProyectoPOOMapaDeClasesYinet\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:29:48.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
