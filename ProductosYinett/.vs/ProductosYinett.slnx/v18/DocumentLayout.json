@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\models\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\models\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\migrations\\20260210232412_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\migrations\\20260210232412_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\models\\productoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\models\\productoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Producto.Server\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:55:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260210232412_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "RelativeToolTip": "Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:24:13.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Program.cs",
+              "RelativeToolTip": "Producto.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:17:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Producto.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\appsettings.json",
+              "RelativeToolTip": "Producto.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T23:04:25.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosContext.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Models\\ProductosContext.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Models\\ProductosContext.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Models\\ProductosContext.cs",
+              "RelativeToolTip": "Producto.Server\\Models\\ProductosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:59:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Productoss.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Models\\Productoss.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Models\\Productoss.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Models\\Productoss.cs",
+              "RelativeToolTip": "Producto.Server\\Models\\Productoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:43:57.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
