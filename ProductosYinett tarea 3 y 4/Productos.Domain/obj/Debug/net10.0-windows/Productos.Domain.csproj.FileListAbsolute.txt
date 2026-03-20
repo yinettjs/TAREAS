@@ -1,0 +1,11 @@
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\bin\Debug\net10.0-windows\Productos.Domain.deps.json
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\bin\Debug\net10.0-windows\Productos.Domain.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\bin\Debug\net10.0-windows\Productos.Domain.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\Productos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\Productos.Domain.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\Productos.Domain.AssemblyInfo.cs
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\Productos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\Productos.Domain.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\refint\Productos.Domain.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\Productos.Domain.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett\Productos.Domain\obj\Debug\net10.0-windows\ref\Productos.Domain.dll

@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.domain\\entities\\productoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\entities\\productoss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\exceptions\\productoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\exceptions\\productoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\producto.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\producto.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.domain\\productos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\productos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\productos.infrastructure..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\productos.infrastructure..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\productos.infrastructure..csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\productos.infrastructure..csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\producto.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\producto.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.domain\\productos.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\productos.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\context\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\context\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B51DA6B-FABA-429E-8CBA-791251C18E7F}|Productos.Infrastructure\\Productos.Infrastructure..csproj|solutionrelative:productos.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\productos.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE76D3D9-7AAD-4520-9309-0D3F1EDCBCE1}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\models\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\models\\productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|c:\\users\\maris\\source\\repos\\tulipblossomcopy\\productosyinett\\producto.server\\migrations\\20260210232412_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB920C-93DD-FB01-00B5-08319B11318D}|Producto.Server\\Producto.Server.csproj|solutionrelative:producto.server\\migrations\\20260210232412_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Models\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Models\\ProductoModel.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Models\\ProductoModel.cs",
+              "RelativeToolTip": "Productos.Infrastructure\\Models\\ProductoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:40:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoException.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Exceptions\\ProductoException.cs",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Exceptions\\ProductoException.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Exceptions\\ProductoException.cs*",
+              "RelativeToolTip": "Productos.Infrastructure\\Exceptions\\ProductoException.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:39:20.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "Productos.Infrastructure\\Core\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:38:36.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.Server",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Producto.Server.csproj",
+              "RelativeDocumentMoniker": "Producto.Server\\Producto.Server.csproj",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Producto.Server.csproj",
+              "RelativeToolTip": "Producto.Server\\Producto.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T19:18:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productoss.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Entities\\Productoss.cs",
+              "RelativeDocumentMoniker": "Productos.Domain\\Entities\\Productoss.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Entities\\Productoss.cs",
+              "RelativeToolTip": "Productos.Domain\\Entities\\Productoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:37:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Productos.Domain",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Productos.Domain.csproj",
+              "RelativeDocumentMoniker": "Productos.Domain\\Productos.Domain.csproj",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Productos.Domain.csproj*",
+              "RelativeToolTip": "Productos.Domain\\Productos.Domain.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T19:12:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Producto.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\appsettings.json",
+              "RelativeToolTip": "Producto.Server\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-10T23:04:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productos.Infrastructure.",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Productos.Infrastructure..csproj",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Productos.Infrastructure..csproj",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Productos.Infrastructure..csproj*",
+              "RelativeToolTip": "Productos.Infrastructure\\Productos.Infrastructure..csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T19:12:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.Server",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Producto.Server.csproj",
+              "RelativeDocumentMoniker": "Producto.Server\\Producto.Server.csproj",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Producto.Server.csproj",
+              "RelativeToolTip": "Producto.Server\\Producto.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T19:06:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Productos.Infrastructure.",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Productos.Infrastructure..csproj",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Productos.Infrastructure..csproj",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Productos.Infrastructure..csproj",
+              "RelativeToolTip": "Productos.Infrastructure\\Productos.Infrastructure..csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T19:05:40.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Producto.Server\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:55:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Productos.Domain",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Productos.Domain.csproj",
+              "RelativeDocumentMoniker": "Productos.Domain\\Productos.Domain.csproj",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Productos.Domain.csproj",
+              "RelativeToolTip": "Productos.Domain\\Productos.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T19:05:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductosContext.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Context\\ProductosContext.cs",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Context\\ProductosContext.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Context\\ProductosContext.cs",
+              "RelativeToolTip": "Productos.Infrastructure\\Context\\ProductosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:50:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Productos.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:32:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Productos.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Productos.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:31:56.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Productos.Domain\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Productos.Domain\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "Productos.Domain\\Core\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:27:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260210232412_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "RelativeToolTip": "Producto.Server\\Migrations\\20260210232412_Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:24:13.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Program.cs",
+              "RelativeToolTip": "Producto.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:17:09.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductosContext.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Models\\ProductosContext.cs",
+              "RelativeDocumentMoniker": "Producto.Server\\Models\\ProductosContext.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\TulipBlossomCopy\\ProductosYinett\\Producto.Server\\Models\\ProductosContext.cs",
+              "RelativeToolTip": "Producto.Server\\Models\\ProductosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:59:06.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
