@@ -1,0 +1,17 @@
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Application.deps.json
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Application.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Application.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Domain.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Infrastructure..dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Domain.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\bin\Debug\net10.0-windows\Productos.Infrastructure..pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.csproj.AssemblyReference.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.AssemblyInfo.cs
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Producto.EF81FBDD.Up2Date
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\refint\Productos.Application.dll
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\Productos.Application.pdb
+C:\Users\maris\source\repos\TulipBlossomCopy\ProductosYinett tarea 3 y 4\Productos.Application\obj\Debug\net10.0-windows\ref\Productos.Application.dll
